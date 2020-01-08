@@ -1,0 +1,11 @@
+{
+  "interval": 1,
+  "flushDns": false,
+  "attackPayload": "Simple Fetch Get",
+  "wsProxyPort": 3129,
+  "attackHostDomain": "dynamic.kernelpanic.io",
+  "attackHostIPAddress": "52.90.73.213",
+  "targetHostIPAddress": "192.168.1.1",
+  "targetPort": 5000,
+  "rebindingStrategy": "ma"
+}
